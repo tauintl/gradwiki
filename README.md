@@ -10,4 +10,4 @@ c/o: your name
 You'll receive an email notifying of new mail.
 
 ### Dormitory Maintenance / Problems
-For water leaks, A/C problems etc: create a request at https://meonot.shikunbinui.com/(X(1)S(s4fuohoidnefxaz4vvkln121))/en.aspx
+For water leaks, A/C problems etc: create a request at https://meonot.shikunbinui.com/(X(1)S(s4fuohoidnefxaz4vvkln121))/en.aspx, can attach photos
