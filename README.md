@@ -1,3 +1,10 @@
+### Welcome to PhD & PostDoc wiki
+To add content without a GitHub account: please send it to `Vadim Kantorov <vadim.kantorov@gmail.com>`.
+
+To get added to the repo, please send your GitHub username to `Vadim Kantorov <vadim.kantorov@gmail.com>`.
+
+Please open issues and pull requests to add all kinds of information!
+
 ### TAU Intl office shipping address
 ```
 TAU International
