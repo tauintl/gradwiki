@@ -1,4 +1,4 @@
-### Welcome to PhD & PostDoc wiki
+## Welcome to PhD & PostDoc wiki
 To add content without a GitHub account: please send it to `Vadim Kantorov <vadim.kantorov@gmail.com>`.
 
 To get added to the repo, please send your GitHub username to `Vadim Kantorov <vadim.kantorov@gmail.com>`.
