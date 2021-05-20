@@ -5,6 +5,12 @@ To get added to the repo, please send your GitHub username to `Vadim Kantorov <v
 
 Please open issues and pull requests to add all kinds of information!
 
+I also created a **Private Appendix** wiki for chat invite links and so forth: https://github.com/tauintl/gradwikiprivate. Please send me your GitHub username to be added there.
+
+---
+Yours truly,
+Vadim Kantorov
+
 ### TAU Intl office shipping address
 ```
 TAU International
