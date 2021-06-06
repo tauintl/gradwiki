@@ -24,4 +24,8 @@ c/o: your name
 You'll receive an email notifying of new mail.
 
 ### Dormitory Maintenance / Problems
-For water leaks, A/C problems etc: create a request at https://meonot.shikunbinui.com/(X(1)S(s4fuohoidnefxaz4vvkln121))/en.aspx, can attach photos
+For water leaks, A/C problems etc: create a request at [Meonot](https://meonot.shikunbinui.com/(X(1)S(s4fuohoidnefxaz4vvkln121))/en.aspx), can attach photos
+
+### Change password (VPN, mytau.tau.ac.il, Email)
+https://tools.tau.ac.il (instead of Teudat Zehut use student ID number, starting with 9)
+Helpdesk: https://www.tau.ac.il/cc/helpdesk/, telephone: 036408888, helpdesk@tau.ac.il (from university email) 
