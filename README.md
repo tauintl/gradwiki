@@ -30,3 +30,6 @@ For water leaks, A/C problems etc: create a request at [Meonot](https://meonot.s
 https://tools.tau.ac.il (instead of Teudat Zehut use student ID number, starting with 9)
 
 Helpdesk: https://www.tau.ac.il/cc/helpdesk/, telephone: 036408888, helpdesk@tau.ac.il (from university email) 
+
+### Visa issues
+Avi Zarakhovsky (+972(0)3-640-9989, aviz@tauex.tau.ac.il, Senate Building,  room 211)
